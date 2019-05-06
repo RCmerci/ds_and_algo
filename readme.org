@@ -1,4 +1,4 @@
-* DS
+* [[https://www.geeksforgeeks.org/data-structures/][DS]]
   
 ** array
 *** [0/17] Array Rotations
