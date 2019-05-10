@@ -1,7 +1,7 @@
 * [[https://www.geeksforgeeks.org/data-structures/][DS]]
   
 ** array
-*** [12/17] Array Rotations
+*** [17/17] Array Rotations
     1. [X] Program for array rotation
     2. [X] Reversal algorithm for array rotation
     3. [X] Block swap algorithm for array rotation
@@ -14,11 +14,11 @@
     10. [X] Quickly find multiple left rotations of an array
     11. [X] Find the minimum element in a sorted and rotated array
     12. [X] Reversal algorithm for right rotation of an array
-    13. [ ] Find a rotation with maximum hamming distance
-    14. [ ] Queries on Left and Right Circular shift on array
-    15. [ ] Print left rotation of array in O(n) time and O(1) space
-    16. [ ] Find element at given index after a number of rotations
-    17. [ ] Split the array and add the first part to the end
+    13. [X] Find a rotation with maximum hamming distance
+    14. [X] Queries on Left and Right Circular shift on array
+    15. [X] Print left rotation of array in O(n) time and O(1) space
+    16. [X] Find element at given index after a number of rotations
+    17. [X] Split the array and add the first part to the end
 
 *** [0/25] Arrangement Rearrangement
     - [ ] Rearrange an array such that arr[i] = i
