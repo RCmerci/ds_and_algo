@@ -20,16 +20,16 @@
     16. [X] Find element at given index after a number of rotations
     17. [X] Split the array and add the first part to the end
 
-*** [5/25] Arrangement Rearrangement
+*** [9/25] Arrangement Rearrangement
     18. [X] Rearrange an array such that arr[i] = i
     19. [X] Write a program to reverse an array or string
     20. [X] Rearrange array such that arr[i] >= arr[j] if i is even and arr[i]<=arr[j] if i is odd and j < i
     21. [X] Rearrange positive and negative numbers in O(n) time and O(1) extra space
     22. [X] Rearrange array in alternating positive & negative items with O(1) extra space | Set 1
-    23. [ ] Move all zeroes to end of array
-    24. [ ] Move all zeroes to end of array | Set-2 (Using single traversal)
-    25. [ ] Minimum swaps required to bring all elements less than or equal to k together
-    26. [ ] Rearrange positive and negative numbers using inbuilt sort function
+    23. [X] Move all zeroes to end of array
+    24. [X] Move all zeroes to end of array | Set-2 (Using single traversal)
+    25. [X] Minimum swaps required to bring all elements less than or equal to k together
+    26. [X] Rearrange positive and negative numbers using inbuilt sort function
     27. [ ] Rearrange array such that even positioned are greater than odd
     28. [ ] Rearrange an array in order – smallest, largest, 2nd smallest, 2nd largest, ..
     29. [ ] Double the first element and move zero to end
